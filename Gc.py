@@ -15,9 +15,7 @@ def gc():
     for i in d:
         if d[i] == M:
             print(i)
-            return d[i]
+            print(d[i])
 
 
-
-
-print(gc())
+gc()
