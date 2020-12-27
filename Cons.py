@@ -42,6 +42,4 @@ def cons():
     print('T:',*T)
 
 
-
-
-print(cons(), end='\n')
+cons()
